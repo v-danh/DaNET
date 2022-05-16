@@ -1,2 +1,2 @@
 # DaNET
-DaNET for Deep Learning models
+DaNET images for Deep Learning models
