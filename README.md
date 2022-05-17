@@ -1,2 +1,2 @@
-# DaNNET (Da Neural Network)
+# DaNET
 DaNET images for Deep Learning models
