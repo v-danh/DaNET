@@ -1,2 +1,3 @@
 # DaNET
-DaNET images for Deep Learning models training
+## Instructions
+DaNET images for Deep Learning models training.
