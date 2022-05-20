@@ -1,5 +1,6 @@
 # coding=utf-8
 
+import os
 from __future__ import absolute_import
 
 def main():
