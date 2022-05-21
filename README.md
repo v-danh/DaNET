@@ -3,4 +3,4 @@
 DaNET images for Deep Learning models training.
 
 # Prerequisite
-Python version 3.10.0
++ Install Python at https://www.python.org/
