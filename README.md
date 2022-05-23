@@ -7,3 +7,4 @@ DaNET images for Deep Learning models training.
 + Install Python programming language at https://www.python.org/
 ### Descriptions
 > Modeling Deep Learning neural networks.
+> Modeling Analysis Deep Learning neural networks.
