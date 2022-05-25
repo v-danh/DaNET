@@ -1,4 +1,4 @@
-# DaNET modeling
+# DaNET Network Models
 
 ## Instructions
 DaNET images for Deep Learning models training.
