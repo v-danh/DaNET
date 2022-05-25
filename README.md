@@ -13,4 +13,5 @@ Support Python 3x versions
 > Add the new Deep Learning neural network models.
 ## License
 Owned by https://github.com/v-danh \
-Copyrights 2022
+
+Copyrights @2022
