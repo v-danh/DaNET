@@ -11,3 +11,5 @@ DaNET images for Deep Learning models training.
 > Modeling Deep Learning neural networks. \
 > Modeling analysis Deep Learning neural networks. \
 > Add the new Deep Learning neural network models.
+## License
++ Owned by https://github.com/v-danh
