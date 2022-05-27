@@ -9,8 +9,8 @@ DaNET images for Deep Learning models training.
 
 ## Descriptions
 Support Python 3x versions
-+ Modeling Deep Learning neural networks. \
-+ Modeling analysis Deep Learning neural networks. \
++ Modeling Deep Learning neural networks.
++ Modeling analysis Deep Learning neural networks.
 + Add the new Deep Learning neural network models.
 
 ## License
