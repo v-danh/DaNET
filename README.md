@@ -5,7 +5,7 @@
 DaNET images for Deep Learning models training.
 
 ## Prerequisites
-+ Install Python programming language at <a href=https://www.python.org/>python.org</a>
++ Install Python programming language at <a href=https://www.python.org/ target="_blank">python.org</a>
 
 ## Descriptions
 Support Python 3x versions
