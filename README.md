@@ -14,6 +14,7 @@ Support Python 3x versions
 + Add the new Deep Learning neural network models.
 + Accurately detect and analyze Deep Learning model patterns.
 
+
 ## License
 Owned by Vu Duc Anh (https://github.com/v-danh) </br>
 Copyright © 2021 - 2022. All rights reserved.
