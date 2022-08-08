@@ -1,4 +1,4 @@
-# DaNET Network Models
+# DaNET Network Model
 
 
 ## Instructions
