@@ -2,7 +2,7 @@
 
 
 ## Instructions
-DaNET images for training deep learning models.
+DaNET images for training deep learning model.
 
 ## Prerequisites
 + Install Python programming language, please visit at <a href="https://www.python.org/" target="_blank">python.org</a>
